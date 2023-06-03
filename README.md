@@ -3,13 +3,13 @@
 The main aim of this Project is to Provide real time Information about the air quality of a particular area so that an organisation or individual make informed decisions.
 And it helps to indentify the factors that contribute to poor air quality.
 
-#In this project I use different python libraries like
+In this project I use different python libraries like
 pandas, 
 seaborn,
 matplotlib,
 numpy, 
 SciKit-Learn and
-#Different machine Learning Algorithms like 
+Different machine Learning Algorithms like 
 linear regression,
 Lasso and ridge, 
 Decision Tree , 
